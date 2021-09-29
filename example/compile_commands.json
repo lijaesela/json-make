@@ -1,0 +1,7 @@
+[
+  {
+    "directory": ".",
+    "file": "example.c",
+    "command": "clang -o example example.c -lm"
+  }
+]
